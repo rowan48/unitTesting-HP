@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":146:{a:2:{s:7:"defects";a:1:{s:39:"functionTest::testTrue_return_user_name";i:4;}s:5:"times";a:1:{s:39:"functionTest::testTrue_return_user_name";d:0;}}}
